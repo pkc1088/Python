@@ -21,7 +21,7 @@ brr.append(2)
 brr.sort(reverse = True)
 print(brr)
 
-crr = [[0] * 3 for _ in range(4)]  #ÀÌÂ÷¿ø¹è¿­ 
+crr = [[0] * 3 for _ in range(4)]  #Ã€ÃŒÃ‚Ã·Â¿Ã¸Â¹Ã¨Â¿Â­ 
 crr[1][1] = 3
 print(crr)
 
